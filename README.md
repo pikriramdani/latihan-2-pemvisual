@@ -5,4 +5,6 @@ Kelas        : TI.20 A.1<br>
 Mata Kuliah  : Pemrograman Visual<br>
 
 ## Result Menghitung Gaji Karyawan
-![ssgajikaryawan](gajikaryawan.png)
+![gambar](gambarlazarus/gajikaryawan.png)<br>
+
+## 

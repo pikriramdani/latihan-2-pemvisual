@@ -1,6 +1,7 @@
-Nama         : Pikri Ramdani
-NIM          : 312010162
-Kelas        : TI.20 A.1
-Mata Kuliah  : Pemrograman Visual
+
+Nama         : Pikri Ramdani<br>
+NIM          : 312010162<br>
+Kelas        : TI.20 A.1<br>
+Mata Kuliah  : Pemrograman Visual<br>
 
 ## Result Menghitung Gaji Karyawan

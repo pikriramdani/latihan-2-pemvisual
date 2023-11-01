@@ -7,4 +7,5 @@ Mata Kuliah  : Pemrograman Visual<br>
 ## Result Menghitung Gaji Karyawan
 ![gambar](gambarlazarus/gajikaryawan.png)<br>
 
-## 
+## Result Penjualan Barang
+![gambar](gambarlazarus/penghitunganpenjualanbrg.png)
